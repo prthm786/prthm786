@@ -1,10 +1,9 @@
 ### Hi there 👋
 ### My name is Pratham Sahni
 
-- I'm a IT enthusiast who loves cloud computing.
-- I love to learn and improve my skills in Cloud and Web Development.
-
-- 🌱 I’m currently learning about AWS, Azure and GCP.
+I'm a IT enthusiast who loves cloud computing.
+I always try to learn and improve my skills in Cloud and Web Development.
+🌱 I’m currently learning about AWS, Azure and GCP.
 
 <!--
 **prthm786/prthm786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
