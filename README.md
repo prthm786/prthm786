@@ -1,10 +1,15 @@
 ### Hi there 👋
+### My name is Pratham Sahni
+
+- I'm a IT enthusiast who loves cloud computing.
+- I love to learn and improve my skills in Cloud and Web Development.
+
+- 🌱 I’m currently learning about AWS, Azure and GCP.
 
 <!--
 **prthm786/prthm786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
