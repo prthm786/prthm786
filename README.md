@@ -1,19 +1,19 @@
-## Hi there 👋
-## My name is Pratham Sahni
+### Hi there 👋
+### My name is Pratham Sahni
 
 
-### I'm a IT enthusiast who loves cloud computing. I have a bachelor of science in computer science honours degree. 
+I'm a IT enthusiast who loves cloud computing. I have a bachelor of science in computer science honours degree. 
 
-### I always try to learn and improve my skills in Cloud and Web Development.
+I always try to learn and improve my skills in Cloud and Web Development.
 
-### 🌱 I’m currently learning about Terraform.
+🌱 I’m currently learning about Terraform.
 
 
-## My Credly Profile 
+### My Credly Profile 
 [Checkout my Credly Profile](https://www.credly.com/users/pratham-sahni/badges)
 
 
-## Skills 
+### Skills 
 
 🔹Linux 
 
@@ -25,20 +25,17 @@
 
 🔹Amazon Web Services (EC2, VPC, S3, IAM)
 
-🔹Docker and Kubernetes
+🔹Docker
 
 🔹Networking
 
 🔹Javascript 
 
-🔹HTML
-
-🔹CSS 
+🔹HTML and CSS
 
 🔹jQuery 
 
-🔹Node.js 
+🔹Nodejs 
 
 🔹Expressjs 
 
---------------------------------------
