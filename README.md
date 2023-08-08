@@ -8,8 +8,7 @@ I always try to learn and improve my skills in Cloud and Web Development.
 🌱 I’m currently learning about Terraform.
 
 ### My Credly Profile 
-[Credly](https://www.credly.com/users/pratham-sahni/badges)
-
+[Checkout my Credly Profile](https://www.credly.com/users/pratham-sahni/badges)
 
 ### Skills 
 
