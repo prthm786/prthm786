@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 style="position: absolute; left: 50%; transform: translateX(-50%); padding: 5px;"> Hi there 👋 </h1>
 
  My name is ***Pratham Sahni***.
 I'm a passionate IT enthusiast 🖥️ who loves cloud computing.
