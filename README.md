@@ -1,4 +1,4 @@
-<h1 style="position: absolute; left: 50%; transform: translateX(-50%); padding: 5px;"> Hi there 👋 </h1>
+## Hi there 👋 
 
  My name is ***Pratham Sahni***.
 I'm a passionate IT enthusiast 🖥️ who loves cloud computing.
@@ -6,15 +6,17 @@ I have bachelor of science in computer science honours degree.
 
 I always try to learn and improve my skills in Cloud ☁️ and Web Development 🌐.
 
-🌱 I’m currently learning about **Terraform**.
+🌱 I’m currently learning about **Terraform**, **Ansible** and **Kubernetes**.
 
 ---
+
 <br>
 
 ### My Credly Profile 
 [Link to my Credly Profile](https://www.credly.com/users/pratham-sahni/badges)
 
 ---
+
 <br>
 
 ### My Skills
@@ -33,18 +35,17 @@ I always try to learn and improve my skills in Cloud ☁️ and Web Development 
 🔹**Amazon Web Services** 
 -> *EC2, VPC, S3, IAM*
 
-🔹**Docker**
+🔹**Docker** & **Docker Compose**
 
 🔹**Networking**
 
-🔹**Javascript**
-
 🔹**HTML** & **CSS**
 
-🔹**jQuery** 
+🔹**Javascript** & **jQuery** 
 
 🔹**Nodejs** & **Expressjs** 
 
+🔹**Python** 
 
 *Thank you for visiting my GitHub profile. Have a great day!* ☁️
 
