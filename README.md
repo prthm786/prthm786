@@ -6,13 +6,14 @@ I'm ***Pratham Sahni***, a Masters Student in Computer Science, always excited a
 I'm deeply passionate about **Web Development** and **Machine learning**. I love the challenge of turning ideas into reality and exploring the cutting-edge in these fields.
 If you share my enthusiasm for innovation and want to collaborate on exciting projects, I'd love to connect! Let's build something amazing together. Feel free to reach out – I'm always open to new challenges and opportunities.
 
-🌱 I’m currently learning about **Terraform**, **Ansible** and **Kubernetes**.
+🌱 I’m currently learning about **GenAI**, **ML** and **Cybersecurity**. 
 
 ---
 
 <br>
 
 ### Let's Connect
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/pratham-sahni)
 
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?style=for-the-badge&logoColor=white)](https://prathamtech.netlify.app)
@@ -21,7 +22,13 @@ If you share my enthusiasm for innovation and want to collaborate on exciting pr
 
 <br>
 
-### My Skills
+### Skills
+
+🔹**Python** 
+ 
+🔹**Javascript** 
+
+🔹**C++**
 
 🔹**Linux** 
 
@@ -37,25 +44,29 @@ If you share my enthusiasm for innovation and want to collaborate on exciting pr
 
 🔹**HTML** and **CSS**
 
-🔹**Tailwind CSS**
-
-🔹**Javascript** and **jQuery** 
+🔹**Tailwind CSS**  
 
 🔹**Nodejs** and **Expressjs** 
 
 🔹**Reactjs**
 
-🔹**Python** 
+🔹**Data Analysis**
+
+🔹**Data Visualization** 
 
 🔹**Data Preprocessing** and **Exploratory Data Analysis**
 
-🔹**Numpy** and **Pandas**
+🔹**Machine Learning**
 
-🔹**Matplotlib** and **Seaborn**
+🔹**Numpy**
 
-🔹**ML Model Development** 
+🔹**Pandas**
+
+**Matplotlib** and **Seaborn** 
 
 🔹**Scikit Learn**
+
+🔹**Cybersecurity**
 
 🔹**Networking** 
 
@@ -75,8 +86,10 @@ If you share my enthusiasm for innovation and want to collaborate on exciting pr
 
 <br>
 
+<!--
 ### Github Stats
 ![Pratham's Github Stats](https://github-readme-stats.vercel.app/api?username=prthm786&show_icons=true)
+-->
 
 ---
 
