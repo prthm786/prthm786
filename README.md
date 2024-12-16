@@ -2,11 +2,9 @@
 
 <br> 
 
-I'm ***Pratham Sahni***.
-
-I'm a dedicated IT enthusiast with a passion for the exciting realm of **Cloud Computing** and **Web Devlopment**. I have profound interest for the boundless opportunities they present for innovation and growth. I have completed BSc (Hons) in computer science. 
-
-I always try to learn and improve my skills in *Cloud* ☁️ and *Web Development* 🌐.
+I'm ***Pratham Sahni***, a Masters Student in Computer Science, always excited about the possibilities of technology.
+I'm deeply passionate about **Web Development** and **Machine learning**. I love the challenge of turning ideas into reality and exploring the cutting-edge in these fields.
+If you share my enthusiasm for innovation and want to collaborate on exciting projects, I'd love to connect! Let's build something amazing together. Feel free to reach out – I'm always open to new challenges and opportunities.
 
 🌱 I’m currently learning about **Terraform**, **Ansible** and **Kubernetes**.
 
@@ -16,46 +14,50 @@ I always try to learn and improve my skills in *Cloud* ☁️ and *Web Developme
 
 ### Let's Connect
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/pratham-sahni)
-  <a href="https://www.credly.com/users/pratham-sahni/badges"><img src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" width="80" height="40" /></a>
+
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?style=for-the-badge&logoColor=white)](https://prathamtech.netlify.app)
 
 ---
 
 <br>
 
-<!--
-### My Credly Profile 
-[Link to my Credly Profile](https://www.credly.com/users/pratham-sahni/badges)
----
--->
-
 ### My Skills
 
 🔹**Linux** 
 
-🔹**Shell Scripting** 
--> *Bash and Powershell*
-
 🔹**Azure** 
--> *Virtual Machine, Virtual Network, NSGs, Subnets, Azure CLI, Azure AD, AKS, Azure App Service, Azure Storage, Cloud Shell, Container Registry, Azure Container Instances*
 
 🔹**Google Cloud**
--> *Compute Engine, VPC, gcloud CLI, IAM, GKE, Cloud Storage, Cloud Shell*
 
 🔹**Amazon Web Services** 
--> *EC2, VPC, S3, IAM*
 
-🔹**Docker** & **Docker Compose**
+🔹**Docker** and **Docker Compose**
 
-🔹**Networking**
+🔹**Full Stack Web Development**
 
-🔹**HTML** & **CSS**
+🔹**HTML** and **CSS**
 
-🔹**Javascript** & **jQuery** 
+🔹**Tailwind CSS**
 
-🔹**Nodejs** & **Expressjs** 
+🔹**Javascript** and **jQuery** 
+
+🔹**Nodejs** and **Expressjs** 
+
+🔹**Reactjs**
 
 🔹**Python** 
+
+🔹**Data Preprocessing** and **Exploratory Data Analysis**
+
+🔹**Numpy** and **Pandas**
+
+🔹**Matplotlib** and **Seaborn**
+
+🔹**ML Model Development** 
+
+🔹**Scikit Learn**
+
+🔹**Networking** 
 
 ---
 
@@ -73,12 +75,12 @@ I always try to learn and improve my skills in *Cloud* ☁️ and *Web Developme
 
 <br>
 
-<!--
 ### Github Stats
 ![Pratham's Github Stats](https://github-readme-stats.vercel.app/api?username=prthm786&show_icons=true)
-![Pratham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prthm786)
+
 ---
--->
+
+<br>
 
 *Thank you for visiting my GitHub profile. Have a great day!* ☁️
 
