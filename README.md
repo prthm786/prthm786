@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 <br> 
 
@@ -14,9 +14,13 @@ If you share my enthusiasm for innovation and want to collaborate on exciting pr
 
 ### Let's Connect
 
+<!--
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/pratham-sahni)
-
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-%2312100E.svg?style=for-the-badge&logoColor=white)](https://prathamtech.netlify.app)
+-->
+
+<a href="https://linkedin.com/in/pratham-sahni" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /> </a>
+<a href="https://prathamtech.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Personal%20Website-%2312100E.svg?style=for-the-badge&logoColor=white" /> </a>
 
 ---
 
@@ -76,11 +80,12 @@ If you share my enthusiasm for innovation and want to collaborate on exciting pr
 
 ### Tools and Languages 
 
-<img src="https://svgrepo.com/show/303205/html-5-logo.svg" height="45" width="45" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40" /> 
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" height="40" width="40" /> 
 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" height="40" width="40" /> <img src="https://svgrepo.com/show/376353/terraform.svg" height="55" width="55" />
 
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-2.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="40" width="40" />  
+<img src="https://cdn.worldvectorlogo.com/logos/firefox-5.svg" height="40" width="40" /> <img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" height="40" width="40" /> 
 
 ---
 
@@ -89,11 +94,11 @@ If you share my enthusiasm for innovation and want to collaborate on exciting pr
 <!--
 ### Github Stats
 ![Pratham's Github Stats](https://github-readme-stats.vercel.app/api?username=prthm786&show_icons=true)
--->
 
 ---
-
 <br>
+
+-->
 
 *Thank you for visiting my GitHub profile. Have a great day!* ☁️
 
